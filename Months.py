@@ -1,3 +1,7 @@
+#This code is used to output a month of the year associated with a number input of 1-12
+
+
+
 num =int(eval(input("Enter a number 1-12 and I will return the name of the month associated with that number: ")))
 
 if num==1:  print("January")
