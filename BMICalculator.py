@@ -18,7 +18,7 @@ elif BMI>=18.5 and BMI<25:
 elif BMI>=25 and BMI<30:
     category=('Overweight')
 elif BMI>=30:
-    category('Obesity')
+    category=('Obesity')
 
 print('Your BMI is: '+str(BMI))
 print('Your BMI Category is: '+ str(category))
